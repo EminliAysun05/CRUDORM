@@ -44,7 +44,16 @@ namespace Practice2
                 Console.WriteLine($"{product.Name},{product.Id}");
             }
 
-           
+            //update product
+            Product uptadedProduct = new Product {
+                Name = "updated Laptop" ,
+               
+
+            };
+            await productService.UpdateProduct(uptadedProduct);
+
+
+
 
         }
     }

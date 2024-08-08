@@ -51,8 +51,21 @@ namespace Practice2
         public async Task UpdateProduct(Product product)
         {
             AppDbContext appDbContext = new AppDbContext();
-             appDbContext.Update(product);
-            await appDbContext.SaveChangesAsync();
+            // appDbContext.Update(product);
+            //await appDbContext.SaveChangesAsync();
+
+            var existProduct = await GetByIdProduct(product.Id);
+
+            var IsExist  = await appDbContext.Products.AnyAsync(x =>x.Name.ToLower() == product.Name.ToLower());
+            if (IsExist)
+            {
+                Console.WriteLine("This procut is already exist");
+                return;
+            }
+            existProduct.Name = product.Name;
+            existProduct.CategoryId = product.CategoryId;
+            existProduct.Category = product.Category;
+            
         }
 
 
