@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namjoon\\source\\repos\\Practice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\migrations\\20240808102159_initss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:migrations\\20240808102159_initss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namjoon\\source\\repos\\Practice2\\Migrations\\20240807145201_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240807145201_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namjoon\\source\\repos\\Practice2\\Migrations\\20240808101806_Initin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240808101806_Initin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|c:\\users\\namjoon\\source\\repos\\practice2\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8C916-8B77-4525-B40C-2E1EB4C8DFA4}|Practice2.csproj|solutionrelative:studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240808102159_initss.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Migrations\\20240808102159_initss.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240808102159_initss.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Migrations\\20240808102159_initss.cs",
+              "RelativeToolTip": "Migrations\\20240808102159_initss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:21:59.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240808101806_Initin.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Migrations\\20240808101806_Initin.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240808101806_Initin.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Migrations\\20240808101806_Initin.cs",
+              "RelativeToolTip": "Migrations\\20240808101806_Initin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:18:06.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductService.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\ProductService.cs",
+              "RelativeToolTip": "ProductService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:45:04.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwC4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:58:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CategoryService.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\CategoryService.cs",
+              "RelativeToolTip": "CategoryService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:08:12.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:01:56.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240807145201_test.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Migrations\\20240807145201_test.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240807145201_test.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Migrations\\20240807145201_test.cs",
+              "RelativeToolTip": "Migrations\\20240807145201_test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:52:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:22:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:22:05.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Students.cs",
+              "RelativeDocumentMoniker": "Students.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Students.cs",
+              "RelativeToolTip": "Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:06:10.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:07:14.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Practice2\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentService.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Practice2\\StudentService.cs",
+              "RelativeToolTip": "StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:09:16.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
